@@ -1,0 +1,25 @@
+_repo: The-Boy-Scouts-on-the-Trailor-Scouting-through-the-Big-Game-Country_45028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45028-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carter, Herbert, active 1909-1917
+    gutenberg_agent_id: '2624'
+    url: http://www.gutenberg.org/2009/agents/2624
+    wikipedia: http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2014-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Scouts on the Trail; or, Scouting through the Big Game Country
+url: http://www.gutenberg.org/ebooks/45028
