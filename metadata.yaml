@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2624
     wikipedia: http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45028#The-Boy-Scouts-on-the-Trailor-Scouting-through-the-Big-Game-Country
 gutenberg_issued: '2014-02-27'
 gutenberg_type: Text
 identifiers:
